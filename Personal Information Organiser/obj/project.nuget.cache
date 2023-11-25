@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dmx0WJ3OXeSr+Wgcma/yHq3T7uQCNrFNsn0ybZsXYvtDnONfPqoSUzebIHd0QeWEaymWyu5aPN00qqrkqx5dGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\byron\\Desktop\\Programming\\Personal Information Organiser\\Personal Information Organiser\\Personal Information Organiser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\byron\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\byron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
